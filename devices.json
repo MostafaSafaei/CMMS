@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "name": "Computer",
+        "location": "Khomein",
+        "type": "Computer",
+        "isDone": false,
+        "image": "../images/Computer.png"
+    },
+    {
+        "id": 2,
+        "name": "Voip",
+        "location": "Tehran",
+        "type": "Voip",
+        "isDone": true,
+        "image": "../images/Voip.png"
+    },
+    {
+        "id": 3,
+        "name": "Server",
+        "location": "Khomein",
+        "type": "Server",
+        "isDone": true,
+        "image": "../images/Server.png"
+    }
+]

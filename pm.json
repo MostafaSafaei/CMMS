@@ -1,0 +1,137 @@
+[
+    {
+        "id": 1,
+        "equipmentId": 1,
+        "pm": "Is every thing OK?"
+    },
+    {
+        "id": 2,
+        "equipmentId": 1,
+        "pm": "Is Device Damaged?"
+    },
+    {
+        "id": 3,
+        "equipmentId": 1,
+        "pm": "Is Device Clean?"
+    },
+    {
+        "id": 4,
+        "equipmentId": 2,
+        "pm": "Is every thing OK?"
+    },
+    {
+        "id": 5,
+        "equipmentId": 2,
+        "pm": "Is Device Damaged?"
+    },
+    {
+        "id": 6,
+        "equipmentId": 2,
+        "pm": "Is Device Clean?"
+    },
+    {
+        "id": 7,
+        "equipmentId": 3,
+        "pm": "Is every thing OK?"
+    },
+    {
+        "id": 8,
+        "equipmentId": 3,
+        "pm": "Is Device Damaged?"
+    },
+    {
+        "id": 9,
+        "equipmentId": 3,
+        "pm": "Is Device Clean?"
+    },
+    {
+        "id": 7,
+        "equipmentId": 4,
+        "pm": "Is every thing OK?"
+    },
+    {
+        "id": 8,
+        "equipmentId": 4,
+        "pm": "Is Device Damaged?"
+    },
+    {
+        "id": 9,
+        "equipmentId": 4,
+        "pm": "Is Device Clean?"
+    },
+    {
+        "id": 7,
+        "equipmentId": 5,
+        "pm": "Is every thing OK?"
+    },
+    {
+        "id": 8,
+        "equipmentId": 5,
+        "pm": "Is Device Damaged?"
+    },
+    {
+        "id": 9,
+        "equipmentId": 5,
+        "pm": "Is Device Clean?"
+    },
+    {
+        "id": 7,
+        "equipmentId": 6,
+        "pm": "Is every thing OK?"
+    },
+    {
+        "id": 8,
+        "equipmentId": 6,
+        "pm": "Is Device Damaged?"
+    },
+    {
+        "id": 9,
+        "equipmentId": 6,
+        "pm": "Is Device Clean?"
+    },
+    {
+        "id": 7,
+        "equipmentId": 7,
+        "pm": "Is every thing OK?"
+    },
+    {
+        "id": 8,
+        "equipmentId": 7,
+        "pm": "Is Device Damaged?"
+    },
+    {
+        "id": 9,
+        "equipmentId": 7,
+        "pm": "Is Device Clean?"
+    },
+    {
+        "id": 7,
+        "equipmentId": 8,
+        "pm": "Is every thing OK?"
+    },
+    {
+        "id": 8,
+        "equipmentId": 8,
+        "pm": "Is Device Damaged?"
+    },
+    {
+        "id": 9,
+        "equipmentId": 8,
+        "pm": "Is Device Clean?"
+    },
+    {
+        "id": 7,
+        "equipmentId": 9,
+        "pm": "Is every thing OK?"
+    },
+    {
+        "id": 8,
+        "equipmentId": 9,
+        "pm": "Is Device Damaged?"
+    },
+    {
+        "id": 9,
+        "equipmentId": 9,
+        "pm": "Is Device Clean?"
+    }
+]

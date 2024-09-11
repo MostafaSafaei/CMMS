@@ -1,0 +1,74 @@
+[
+    {
+        "id": 1,
+        "deviceId": 1,
+        "name": "Case",
+        "period": "yearly",
+        "deadline": "2024-09-09",
+        "done": true
+    },
+    {
+        "id": 2,
+        "deviceId": 1,
+        "name": "Monitor",
+        "period": "weekly",
+        "deadline": "2024-09-09",
+        "done": false
+    },
+    {
+        "id": 3,
+        "deviceId": 1,
+        "name": "Keyboard",
+        "period": "monthly",
+        "deadline": "2024-09-09",
+        "done": false
+    },
+    {
+        "id": 4,
+        "deviceId": 2,
+        "name": "Case",
+        "period": "yearly",
+        "deadline": "2024-09-09",
+        "done": true
+    },
+    {
+        "id": 5,
+        "deviceId": 2,
+        "name": "Monitor",
+        "period": "weekly",
+        "deadline": "2024-09-09",
+        "done": false
+    },
+    {
+        "id": 6,
+        "deviceId": 2,
+        "name": "Keyboard",
+        "period": "monthly",
+        "deadline": "2024-09-09",
+        "done": false
+    },
+    {
+        "id": 7,
+        "deviceId": 3,
+        "name": "Case",
+        "period": "yearly",
+        "deadline": "2024-09-09",
+        "done": true
+    },
+    {
+        "id": 8,
+        "deviceId": 3,
+        "name": "Monitor",
+        "period": "weekly",
+        "deadline": "2024-09-09",
+        "done": false
+    },
+    {
+        "id": 9,
+        "deviceId": 3,
+        "name": "Keyboard",
+        "period": "monthly",
+        "deadline": "2024-09-09",
+        "done": false
+    }
+]
